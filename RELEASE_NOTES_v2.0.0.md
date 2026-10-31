@@ -24,4 +24,8 @@ Corevanta Logix Modernizer replaces AB Legacy Tag Updater as the current product
 
 The workflow is intentionally guided and requires no scripting: select, analyze, map, validate, and generate.
 
+The application executable and installer are digitally signed and timestamped by Corevanta LLC.
+
+**Installer SHA-256:** `213CADF8FE39E83BC328ACDD0C9628D836EB2586C97650DE04D6A2656355E8EE`
+
 Studio 5000, Logix Designer, ControlLogix, CompactLogix, Allen-Bradley, and PLC-5 are trademarks of Rockwell Automation, Inc. Corevanta Logix Modernizer is an independent product and is not affiliated with or endorsed by Rockwell Automation.
