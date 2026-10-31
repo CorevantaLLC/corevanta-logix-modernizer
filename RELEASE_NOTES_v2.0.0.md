@@ -26,6 +26,6 @@ The workflow is intentionally guided and requires no scripting: select, analyze,
 
 The application executable and installer are digitally signed and timestamped by Corevanta LLC.
 
-**Installer SHA-256:** `213CADF8FE39E83BC328ACDD0C9628D836EB2586C97650DE04D6A2656355E8EE`
+**Installer SHA-256:** `3ACFF73D5A9DFC2CE19106BB51313BA5237439FC48CF241F3D04B06CC583CD4F`
 
 Studio 5000, Logix Designer, ControlLogix, CompactLogix, Allen-Bradley, and PLC-5 are trademarks of Rockwell Automation, Inc. Corevanta Logix Modernizer is an independent product and is not affiliated with or endorsed by Rockwell Automation.
